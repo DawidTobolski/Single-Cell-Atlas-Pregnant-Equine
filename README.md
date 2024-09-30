@@ -1,7 +1,7 @@
 
 # Single-Cell Atlas of the Pregnant Equine Endometrium Before and After Implantation
 
-This repository contains the data and analysis code for the study: **"Single-cell atlas of the pregnant equine endometrium before and after implantation"** by Jaworska et al. The study explores the transcriptome and cellular composition of the equine endometrium during early pregnancy, specifically before and after embryo implantation.
+This repository contains the analysis code for the study: **"Single-cell atlas of the pregnant equine endometrium before and after implantation"** by Jaworska et al. The study explores the transcriptome and cellular composition of the equine endometrium during early pregnancy, specifically before and after embryo implantation.
 
 ## Key Findings
 - Endometrial NK cells are the most abundant leukocyte population during implantation in horses.
